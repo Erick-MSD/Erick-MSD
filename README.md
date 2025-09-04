@@ -31,10 +31,11 @@ Me apasiona el aprendizaje continuo y me estoy preparando para especializarme co
 
 ### 🔧 Herramientas y plataformas
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://img.shields.io/badge/SAP-Signavio-blue?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Signavio"/>
 </p>
+
 
 ---
 
@@ -59,7 +60,7 @@ Me apasiona el aprendizaje continuo y me estoy preparando para especializarme co
   <a href="https://github.com/Erick-MSD" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/emsd-b15b462b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
