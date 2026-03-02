@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Erick-MSD 🚀
 
-Soy **estudiante de Ingeniería en Desarrollo de Software** (4to semestre).  
+Soy **estudiante de Ingeniería en Desarrollo de Software** (5to semestre).  
 Me apasiona el aprendizaje continuo y me estoy preparando para especializarme como **Data Scientist** y **Desarrollador Full Stack**.  
 
 ---
@@ -73,10 +73,18 @@ Me apasiona el aprendizaje continuo y me estoy preparando para especializarme co
 ---
 
 ## 📊 Mis estadísticas en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erick-MSD&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-MSD&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
-</p>
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Erick-MSD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Erick-MSD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Erick-MSD&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erick-MSD&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ---
 
