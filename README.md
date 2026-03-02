@@ -1,13 +1,36 @@
+<div align="center">
+
 # 👋 ¡Hola! Soy Erick-MSD 🚀
 
-Soy **estudiante de Ingeniería en Desarrollo de Software** (5to semestre).  
-Me apasiona el aprendizaje continuo y me estoy preparando para especializarme como **Data Scientist** y **Desarrollador Full Stack**.  
+### Estudiante de Ingeniería en Desarrollo de Software | 5to Semestre
+
+*Apasionado por el aprendizaje continuo y la innovación tecnológica*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Erick--MSD-181717?style=for-the-badge&logo=github)](https://github.com/Erick-MSD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emsd-b15b462b5/)
+
+</div>
 
 ---
 
-## 🎯 Objetivos profesionales
-- 💻 Convertirme en **Data Scientist** y **Full Stack Developer**  
-- ⚡ Especializarme en **backend, frontend y análisis de datos**  
+## 🎯 Mis Objetivos
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 Data Science
+Especializarme en análisis de datos, machine learning y visualización para transformar datos en insights accionables.
+
+</td>
+<td width="50%">
+
+### 💻 Full Stack Development
+Dominar tanto backend como frontend para crear aplicaciones web completas, escalables y de alto rendimiento.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -57,7 +80,8 @@ Me apasiona el aprendizaje continuo y me estoy preparando para especializarme co
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/SAP-Signavio-blue?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Signavio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
 
@@ -65,24 +89,50 @@ Me apasiona el aprendizaje continuo y me estoy preparando para especializarme co
 ---
 
 ## 💡 Sobre mí
-- 🤝 Me encanta trabajar en **equipo** y colaborar con personas de diferentes perfiles.  
-- 🌍 No se me dificulta adaptarme a distintos entornos y formas de trabajo.  
-- 🚀 Tengo facilidad para **aprender nuevas tecnologías** y aplicarlas rápidamente.  
-- 📈 Siempre busco la **mejora continua** en lo profesional y personal.  
+
+🤝 **Trabajo en equipo** - Colaboro eficazmente con personas de diversos perfiles  
+🌍 **Adaptabilidad** - Me ajusto fácilmente a diferentes entornos y metodologías  
+🚀 **Aprendizaje rápido** - Asimilo y aplico nuevas tecnologías con facilidad  
+📈 **Mejora continua** - Comprometido con mi crecimiento profesional y personal  
 
 ---
 
 ## 📊 Mis estadísticas en GitHub
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Erick-MSD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Erick-MSD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+### 🔥 Racha de Contribuciones
+![GitHub Streak](https://streak-stats.demolab.com?user=Erick-MSD&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es&card_width=800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Erick-MSD&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es)
+### 📈 Actividad General
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erick-MSD&theme=tokyo-night&hide_border=true&area=true&custom_title=Gráfico%20de%20Actividad)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erick-MSD&theme=tokyo-night&hide_border=true&area=true)
+### 💻 Distribución de Lenguajes
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erick-MSD&theme=tokyonight" alt="Repos por Lenguaje"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erick-MSD&theme=tokyonight" alt="Lenguaje más usado en Commits"/>
+    </td>
+  </tr>
+</table>
+
+### 📊 Resumen de Perfil
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erick-MSD&theme=tokyonight)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erick-MSD&theme=tokyonight" alt="Stats"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erick-MSD&theme=tokyonight&utcOffset=-6" alt="Tiempo Productivo"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
