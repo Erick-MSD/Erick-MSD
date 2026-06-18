@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Erick-MSD 🚀
 
-### Estudiante de Ingeniería en Desarrollo de Software | 5to Semestre
+### Estudiante de Ingeniería en Desarrollo de Software | 6to Semestre
 
 *Apasionado por el aprendizaje continuo y la innovación tecnológica*
 
@@ -24,8 +24,8 @@ Especializarme en análisis de datos, machine learning y visualización para tra
 </td>
 <td width="50%">
 
-### 💻 Full Stack Development
-Dominar tanto backend como frontend para crear aplicaciones web completas, escalables y de alto rendimiento.
+### ⚙️ DevOps & Bases de Datos
+Especializarme en la automatización de despliegues (CI/CD), administración de infraestructura en la nube y el diseño, gestión y optimización de bases de datos.
 
 </td>
 </tr>
