@@ -6,7 +6,6 @@
 
 *Apasionado por el aprendizaje continuo y la innovación tecnológica*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Erick--MSD-181717?style=for-the-badge&logo=github)](https://github.com/Erick-MSD)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emsd-b15b462b5/)
 
 </div>
@@ -140,9 +139,6 @@ Dominar tanto backend como frontend para crear aplicaciones web completas, escal
 
 ## 📫 ¿Quieres contactarme?
 <p align="left">
-  <a href="https://github.com/Erick-MSD" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/emsd-b15b462b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
